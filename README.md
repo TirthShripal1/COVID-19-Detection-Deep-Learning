@@ -119,5 +119,3 @@ The displayed score is a model output, not a clinically calibrated probability o
 - **Class mismatch:** ensure train/val/test contain identical class folder names.
 - **Out of memory:** reduce `--batch-size` to 8 or 16.
 - **TensorFlow install errors:** use Python 3.10/3.11 and consult TensorFlow's current installation guidance for your OS/hardware.
-
-No LICENSE file is included. Before redistributing this project, choose a project license and verify that dataset and pretrained-weight terms allow your intended use.
